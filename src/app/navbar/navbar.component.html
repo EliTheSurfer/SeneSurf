@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" >SeneSurf</a>
+    <a class="navbar-brand" routerLink="/" >SeneSurf</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -17,17 +17,24 @@
                 <a class="dropdown-item" >Lieu de prière</a>    
             </div>
         </li>
+        
         <li class="nav-item">
-          <a class="nav-link" >Evenements  <span class="sr-only">(current)</span></a>
+          <a class="nav-link"  
+            routerLink="/evenements">Evenements  
+            <span class="sr-only">(current)</span>
+          </a>
         </li>
+        
         <li class="nav-item">
-          <a class="nav-link" >Restaurants</a>
+          <a class="nav-link" routerLink="/restaurants">Restaurants</a>
         </li>
+        
         <li class="nav-item">
-          <a class="nav-link" >Boutique</a>
+          <a class="nav-link" routerLink="/boutique">Boutique</a>
         </li>
+        
         <li class="nav-item">
-            <a class="nav-link" >Cours et Surf trips</a>
+            <a class="nav-link" routerLink="/prestations" >Cours et Surf trips</a>
         </li>
       </ul>
 

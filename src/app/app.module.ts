@@ -9,10 +9,18 @@ import { CardComponent } from './card/card.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { RouterModule, Routes } from '@angular/router';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
+import { EventsPageComponent } from './pages/events-page/events-page.component';
+import { RestaurantsComponent } from './pages/restaurants/restaurants.component';
+import { ShopComponent } from './pages/shop/shop.component';
+import { PrestationsComponent } from './pages/prestations/prestations.component';
 
 
 const appRoutes: Routes = [
    { path: 'le-virage', component: LeVirageComponent },
+   { path: 'evenements', component: EventsPageComponent },
+   { path: 'restaurants', component: RestaurantsComponent },
+   { path: 'boutique', component: ShopComponent },
+   { path: 'prestations', component: PrestationsComponent },
    { path: '**', component: LeVirageComponent }
 
  ];
@@ -23,6 +31,10 @@ const appRoutes: Routes = [
       CardComponent,
       NavbarComponent,
       LeVirageComponent,
+      EventsPageComponent,
+      RestaurantsComponent,
+      ShopComponent,
+      PrestationsComponent,
    ],
    imports: [
       BrowserModule,
