@@ -8,6 +8,8 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { CardComponent } from './card/card.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { RouterModule, Routes } from '@angular/router';
+import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
+
 
 const appRoutes: Routes = [
    { path: 'le-virage', component: LeVirageComponent },
@@ -26,6 +28,7 @@ const appRoutes: Routes = [
       BrowserModule,
       AppRoutingModule,
       BrowserAnimationsModule,
+      BsDropdownModule.forRoot(),
       RouterModule.forRoot(
          appRoutes,
        ),

@@ -6,20 +6,16 @@
   
     <div class="collapse navbar-collapse" id="navbarSupporteéContent">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Surf Spots
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item">Le virage</a>
-            <a class="dropdown-item" >Vivier</a>
-            <a class="dropdown-item" >Yoff</a>
-            <a class="dropdown-item" >Skew Point</a>
-            <a class="dropdown-item" >No Return</a>
-            <a class="dropdown-item" >Lieu de prière</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" >Something else here</a>
-          </div>
+        <li class="dropdown" dropdown nav-link dropdown-toggle >
+            <a dropdownToggle class="nav-link dropdown-toggle" role="button">Surf Spots</a>
+            <div *dropdownMenu class="dropdown-menu">
+                <a class="dropdown-item">Le virage</a>
+                <a class="dropdown-item" >Vivier</a>
+                <a class="dropdown-item" >Yoff</a>
+                <a class="dropdown-item" >Skew Point</a>
+                <a class="dropdown-item" >No Return</a>
+                <a class="dropdown-item" >Lieu de prière</a>    
+            </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" >Evenements  <span class="sr-only">(current)</span></a>
@@ -34,9 +30,13 @@
             <a class="nav-link" >Cours et Surf trips</a>
         </li>
       </ul>
+
+
+      
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="..." aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Rechercher</button>
       </form>
     </div>
   </nav>
+  
