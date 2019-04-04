@@ -13,6 +13,7 @@ import { EventsPageComponent } from './pages/events-page/events-page.component';
 import { RestaurantsComponent } from './pages/restaurants/restaurants.component';
 import { ShopComponent } from './pages/shop/shop.component';
 import { PrestationsComponent } from './pages/prestations/prestations.component';
+import { MeteoCardComponent } from './meteoCard/meteoCard.component';
 
 
 const appRoutes: Routes = [
@@ -35,6 +36,7 @@ const appRoutes: Routes = [
       RestaurantsComponent,
       ShopComponent,
       PrestationsComponent,
+      MeteoCardComponent
    ],
    imports: [
       BrowserModule,
@@ -43,7 +45,7 @@ const appRoutes: Routes = [
       BsDropdownModule.forRoot(),
       RouterModule.forRoot(
          appRoutes,
-       ),
+      ),
    ],
    providers: [],
    bootstrap: [
