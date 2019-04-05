@@ -7,11 +7,11 @@ import { Subscription } from 'rxjs';
 
 
 @Component({
-  selector: 'app-le-virage',
-  templateUrl: './le-virage.component.html',
-  styleUrls: ['./le-virage.component.css']
+  selector: 'surfSpot-page',
+  templateUrl: './surfSpot-page.component.html',
+  styleUrls: ['./surfSpot-page.component.css']
 })
-export class LeVirageComponent implements OnDestroy {
+export class SurfSpotComponent implements OnDestroy {
   @Input() surfSpotName;
   foreCastUrl: string;
 

@@ -1,23 +1,21 @@
 /* tslint:disable:no-unused-variable */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-import { By } from '@angular/platform-browser';
-import { DebugElement } from '@angular/core';
 
-import { LeVirageComponent } from './le-virage.component';
+import { SurfSpotComponent } from './surfSpot-page.component';
 
 describe('LeVirageComponent', () => {
-  let component: LeVirageComponent;
-  let fixture: ComponentFixture<LeVirageComponent>;
+  let component: SurfSpotComponent;
+  let fixture: ComponentFixture<SurfSpotComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ LeVirageComponent ]
+      declarations: [ SurfSpotComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(LeVirageComponent);
+    fixture = TestBed.createComponent(SurfSpotComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

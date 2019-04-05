@@ -1,4 +1,3 @@
-import { LeVirageComponent } from './pages/le-virage/le-virage.component';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -14,10 +13,11 @@ import { RestaurantsComponent } from './pages/restaurants/restaurants.component'
 import { ShopComponent } from './pages/shop/shop.component';
 import { PrestationsComponent } from './pages/prestations/prestations.component';
 import { MeteoCardComponent } from './meteoCard/meteoCard.component';
+import { SurfSpotComponent } from './pages/surfSpot-page/surfSpot-page.component';
 
 
 const appRoutes: Routes = [
-   { path: 'surfSpotStream/:surfSpotName', component: LeVirageComponent },
+   { path: 'surfSpotStream/:surfSpotName', component: SurfSpotComponent },
    { path: 'evenements', component: EventsPageComponent },
    { path: 'restaurants', component: RestaurantsComponent },
    { path: 'boutique', component: ShopComponent },
@@ -30,7 +30,7 @@ const appRoutes: Routes = [
       AppComponent,
       CardComponent,
       NavbarComponent,
-      LeVirageComponent,
+      SurfSpotComponent,
       EventsPageComponent,
       RestaurantsComponent,
       ShopComponent,
