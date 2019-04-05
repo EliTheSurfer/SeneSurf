@@ -17,13 +17,12 @@ import { MeteoCardComponent } from './meteoCard/meteoCard.component';
 
 
 const appRoutes: Routes = [
-   { path: 'le-virage', component: LeVirageComponent },
+   { path: 'surfSpotStream/:surfSpotName', component: LeVirageComponent },
    { path: 'evenements', component: EventsPageComponent },
    { path: 'restaurants', component: RestaurantsComponent },
    { path: 'boutique', component: ShopComponent },
    { path: 'prestations', component: PrestationsComponent },
-   { path: '**', component: LeVirageComponent }
-
+   { path: '**', component: EventsPageComponent }
  ];
 
 @NgModule({
