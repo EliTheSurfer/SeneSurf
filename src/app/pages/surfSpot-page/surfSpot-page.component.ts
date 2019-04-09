@@ -30,7 +30,7 @@ export class SurfSpotComponent implements OnDestroy {
     this.routerEventSubscription = this.router.events
       .filter((routerEvent: RouterEvent) => routerEvent !== undefined && routerEvent.url !== undefined)
       .map((routerEvent: RouterEvent) => routerEvent.url.split('/')[2])
-      .subscribe((surfSpotName: string) => {
+      .subscribe((surfSpotName: string = 'Le-Virage') => {
         this.surfSpotName = surfSpotEnum[surfSpotName];
         this.foreCastUrl = `//fr.surf-forecast.com/breaks/${surfSpotName}/forecasts/widget/a | safe`;
       });

@@ -22,7 +22,7 @@ const appRoutes: Routes = [
    { path: 'restaurants', component: RestaurantsComponent },
    { path: 'boutique', component: ShopComponent },
    { path: 'prestations', component: PrestationsComponent },
-   { path: '**', component: EventsPageComponent }
+   { path: '**', redirectTo: '/surfSpotStream/Le-Virage', }
  ];
 
 @NgModule({
