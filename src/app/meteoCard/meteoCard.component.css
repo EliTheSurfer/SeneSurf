@@ -22,3 +22,3523 @@
   .widget-container {
     border-radius: 7px;
   }
+
+  /* From http://flag-sprites.com/ */
+/* line 3, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+div.flag {
+  display: inline-block;
+}
+
+/* line 7, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag-sprites .flag {
+  width: 16px;
+  height: 11px;
+}
+
+/* line 13, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag-sprites .flag-empty {
+  width: 16px;
+  height: 11px;
+}
+
+/* line 18, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ad {
+  background-position: -16px 0;
+}
+
+/* line 19, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ae {
+  background-position: -32px 0;
+}
+
+/* line 20, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-af {
+  background-position: -48px 0;
+}
+
+/* line 21, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ag {
+  background-position: -64px 0;
+}
+
+/* line 22, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ai {
+  background-position: -80px 0;
+}
+
+/* line 23, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-al {
+  background-position: -96px 0;
+}
+
+/* line 24, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-am {
+  background-position: -112px 0;
+}
+
+/* line 25, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-an {
+  background-position: -128px 0;
+}
+
+/* line 26, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ao {
+  background-position: -144px 0;
+}
+
+/* line 27, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ar {
+  background-position: -160px 0;
+}
+
+/* line 28, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-as {
+  background-position: -176px 0;
+}
+
+/* line 29, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-at {
+  background-position: -192px 0;
+}
+
+/* line 30, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-au {
+  background-position: -208px 0;
+}
+
+/* line 31, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-aw {
+  background-position: -224px 0;
+}
+
+/* line 32, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-az {
+  background-position: -240px 0;
+}
+
+/* line 33, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ba {
+  background-position: 0 -11px;
+}
+
+/* line 34, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bb {
+  background-position: -16px -11px;
+}
+
+/* line 35, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bd {
+  background-position: -32px -11px;
+}
+
+/* line 36, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-be {
+  background-position: -48px -11px;
+}
+
+/* line 37, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bf {
+  background-position: -64px -11px;
+}
+
+/* line 38, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bg {
+  background-position: -80px -11px;
+}
+
+/* line 39, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bh {
+  background-position: -96px -11px;
+}
+
+/* line 40, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bi {
+  background-position: -112px -11px;
+}
+
+/* line 41, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bj {
+  background-position: -128px -11px;
+}
+
+/* line 42, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bm {
+  background-position: -144px -11px;
+}
+
+/* line 43, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bn {
+  background-position: -160px -11px;
+}
+
+/* line 44, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bo {
+  background-position: -176px -11px;
+}
+
+/* line 45, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-br {
+  background-position: -192px -11px;
+}
+
+/* line 46, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bs {
+  background-position: -208px -11px;
+}
+
+/* line 47, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bt {
+  background-position: -224px -11px;
+}
+
+/* line 48, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bv {
+  background-position: -240px -11px;
+}
+
+/* line 49, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bw {
+  background-position: 0 -22px;
+}
+
+/* line 50, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-by {
+  background-position: -16px -22px;
+}
+
+/* line 51, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-bz {
+  background-position: -32px -22px;
+}
+
+/* line 52, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ca {
+  background-position: -48px -22px;
+}
+
+/* line 53, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-catalonia {
+  background-position: -64px -22px;
+}
+
+/* line 54, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cd {
+  background-position: -80px -22px;
+}
+
+/* line 55, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cf {
+  background-position: -96px -22px;
+}
+
+/* line 56, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cg {
+  background-position: -112px -22px;
+}
+
+/* line 57, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ch {
+  background-position: -128px -22px;
+}
+
+/* line 58, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ci {
+  background-position: -144px -22px;
+}
+
+/* line 59, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ck {
+  background-position: -160px -22px;
+}
+
+/* line 60, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cl {
+  background-position: -176px -22px;
+}
+
+/* line 61, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cm {
+  background-position: -192px -22px;
+}
+
+/* line 62, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cn {
+  background-position: -208px -22px;
+}
+
+/* line 63, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-co {
+  background-position: -224px -22px;
+}
+
+/* line 64, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cr {
+  background-position: -240px -22px;
+}
+
+/* line 65, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cu {
+  background-position: 0 -33px;
+}
+
+/* line 66, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cv {
+  background-position: -16px -33px;
+}
+
+/* line 67, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cw {
+  background-position: -32px -33px;
+}
+
+/* line 68, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cy {
+  background-position: -48px -33px;
+}
+
+/* line 69, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-cz {
+  background-position: -64px -33px;
+}
+
+/* line 70, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-de {
+  background-position: -80px -33px;
+}
+
+/* line 71, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-dj {
+  background-position: -96px -33px;
+}
+
+/* line 72, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-dk {
+  background-position: -112px -33px;
+}
+
+/* line 73, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-dm {
+  background-position: -128px -33px;
+}
+
+/* line 74, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-do {
+  background-position: -144px -33px;
+}
+
+/* line 75, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-dz {
+  background-position: -160px -33px;
+}
+
+/* line 76, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ec {
+  background-position: -176px -33px;
+}
+
+/* line 77, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ee {
+  background-position: -192px -33px;
+}
+
+/* line 78, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-eg {
+  background-position: -208px -33px;
+}
+
+/* line 79, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-eh {
+  background-position: -224px -33px;
+}
+
+/* line 80, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-england {
+  background-position: -240px -33px;
+}
+
+/* line 81, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-er {
+  background-position: 0 -44px;
+}
+
+/* line 82, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-es {
+  background-position: -16px -44px;
+}
+
+/* line 83, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-et {
+  background-position: -32px -44px;
+}
+
+/* line 84, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-eu {
+  background-position: -48px -44px;
+}
+
+/* line 85, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fi {
+  background-position: -64px -44px;
+}
+
+/* line 86, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fj {
+  background-position: -80px -44px;
+}
+
+/* line 87, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fk {
+  background-position: -96px -44px;
+}
+
+/* line 88, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fm {
+  background-position: -112px -44px;
+}
+
+/* line 89, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fo {
+  background-position: -128px -44px;
+}
+
+/* line 90, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-fr {
+  background-position: -144px -44px;
+}
+
+/* line 91, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ga {
+  background-position: -160px -44px;
+}
+
+/* line 92, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gb {
+  background-position: -176px -44px;
+}
+
+/* line 93, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gd {
+  background-position: -192px -44px;
+}
+
+/* line 94, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ge {
+  background-position: -208px -44px;
+}
+
+/* line 95, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gf {
+  background-position: -224px -44px;
+}
+
+/* line 96, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gg {
+  background-position: -240px -44px;
+}
+
+/* line 97, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gh {
+  background-position: 0 -55px;
+}
+
+/* line 98, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gi {
+  background-position: -16px -55px;
+}
+
+/* line 99, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gl {
+  background-position: -32px -55px;
+}
+
+/* line 100, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gm {
+  background-position: -48px -55px;
+}
+
+/* line 101, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gn {
+  background-position: -64px -55px;
+}
+
+/* line 102, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gp {
+  background-position: -80px -55px;
+}
+
+/* line 103, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gq {
+  background-position: -96px -55px;
+}
+
+/* line 104, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gr {
+  background-position: -112px -55px;
+}
+
+/* line 105, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gs {
+  background-position: -128px -55px;
+}
+
+/* line 106, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gt {
+  background-position: -144px -55px;
+}
+
+/* line 107, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gu {
+  background-position: -160px -55px;
+}
+
+/* line 108, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gw {
+  background-position: -176px -55px;
+}
+
+/* line 109, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-gy {
+  background-position: -192px -55px;
+}
+
+/* line 110, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-hk {
+  background-position: -208px -55px;
+}
+
+/* line 111, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-hm {
+  background-position: -224px -55px;
+}
+
+/* line 112, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-hn {
+  background-position: -240px -55px;
+}
+
+/* line 113, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-hr {
+  background-position: 0 -66px;
+}
+
+/* line 114, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ht {
+  background-position: -16px -66px;
+}
+
+/* line 115, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-hu {
+  background-position: -32px -66px;
+}
+
+/* line 116, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-id {
+  background-position: -48px -66px;
+}
+
+/* line 117, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ie {
+  background-position: -64px -66px;
+}
+
+/* line 118, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-il {
+  background-position: -80px -66px;
+}
+
+/* line 119, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-im {
+  background-position: -96px -66px;
+}
+
+/* line 120, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-in {
+  background-position: -112px -66px;
+}
+
+/* line 121, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-io {
+  background-position: -128px -66px;
+}
+
+/* line 122, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-iq {
+  background-position: -144px -66px;
+}
+
+/* line 123, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ir {
+  background-position: -160px -66px;
+}
+
+/* line 124, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-is {
+  background-position: -176px -66px;
+}
+
+/* line 125, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-it {
+  background-position: -192px -66px;
+}
+
+/* line 126, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-je {
+  background-position: -208px -66px;
+}
+
+/* line 127, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-jm {
+  background-position: -224px -66px;
+}
+
+/* line 128, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-jo {
+  background-position: -240px -66px;
+}
+
+/* line 129, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-jp {
+  background-position: 0 -77px;
+}
+
+/* line 130, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ke {
+  background-position: -16px -77px;
+}
+
+/* line 131, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kg {
+  background-position: -32px -77px;
+}
+
+/* line 132, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kh {
+  background-position: -48px -77px;
+}
+
+/* line 133, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ki {
+  background-position: -64px -77px;
+}
+
+/* line 134, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-km {
+  background-position: -80px -77px;
+}
+
+/* line 135, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kn {
+  background-position: -96px -77px;
+}
+
+/* line 136, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kp {
+  background-position: -112px -77px;
+}
+
+/* line 137, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kr {
+  background-position: -128px -77px;
+}
+
+/* line 138, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kurdistan {
+  background-position: -144px -77px;
+}
+
+/* line 139, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kw {
+  background-position: -160px -77px;
+}
+
+/* line 140, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ky {
+  background-position: -176px -77px;
+}
+
+/* line 141, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-kz {
+  background-position: -192px -77px;
+}
+
+/* line 142, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-la {
+  background-position: -208px -77px;
+}
+
+/* line 143, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lb {
+  background-position: -224px -77px;
+}
+
+/* line 144, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lc {
+  background-position: -240px -77px;
+}
+
+/* line 145, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-li {
+  background-position: 0 -88px;
+}
+
+/* line 146, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lk {
+  background-position: -16px -88px;
+}
+
+/* line 147, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lr {
+  background-position: -32px -88px;
+}
+
+/* line 148, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ls {
+  background-position: -48px -88px;
+}
+
+/* line 149, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lt {
+  background-position: -64px -88px;
+}
+
+/* line 150, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lu {
+  background-position: -80px -88px;
+}
+
+/* line 151, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-lv {
+  background-position: -96px -88px;
+}
+
+/* line 152, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ly {
+  background-position: -112px -88px;
+}
+
+/* line 153, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ma {
+  background-position: -128px -88px;
+}
+
+/* line 154, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mc {
+  background-position: -144px -88px;
+}
+
+/* line 155, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-md {
+  background-position: -160px -88px;
+}
+
+/* line 156, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-me {
+  background-position: -176px -88px;
+}
+
+/* line 157, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mg {
+  background-position: -192px -88px;
+}
+
+/* line 158, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mh {
+  background-position: -208px -88px;
+}
+
+/* line 159, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mk {
+  background-position: -224px -88px;
+}
+
+/* line 160, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ml {
+  background-position: -240px -88px;
+}
+
+/* line 161, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mm {
+  background-position: 0 -99px;
+}
+
+/* line 162, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mn {
+  background-position: -16px -99px;
+}
+
+/* line 163, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mo {
+  background-position: -32px -99px;
+}
+
+/* line 164, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mp {
+  background-position: -48px -99px;
+}
+
+/* line 165, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mq {
+  background-position: -64px -99px;
+}
+
+/* line 166, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mr {
+  background-position: -80px -99px;
+}
+
+/* line 167, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ms {
+  background-position: -96px -99px;
+}
+
+/* line 168, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mt {
+  background-position: -112px -99px;
+}
+
+/* line 169, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mu {
+  background-position: -128px -99px;
+}
+
+/* line 170, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mv {
+  background-position: -144px -99px;
+}
+
+/* line 171, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mw {
+  background-position: -160px -99px;
+}
+
+/* line 172, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mx {
+  background-position: -176px -99px;
+}
+
+/* line 173, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-my {
+  background-position: -192px -99px;
+}
+
+/* line 174, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-mz {
+  background-position: -208px -99px;
+}
+
+/* line 175, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-na {
+  background-position: -224px -99px;
+}
+
+/* line 176, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nc {
+  background-position: -240px -99px;
+}
+
+/* line 177, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ne {
+  background-position: 0 -110px;
+}
+
+/* line 178, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nf {
+  background-position: -16px -110px;
+}
+
+/* line 179, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ng {
+  background-position: -32px -110px;
+}
+
+/* line 180, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ni {
+  background-position: -48px -110px;
+}
+
+/* line 181, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nl {
+  background-position: -64px -110px;
+}
+
+/* line 182, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-no {
+  background-position: -80px -110px;
+}
+
+/* line 183, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-np {
+  background-position: -96px -110px;
+}
+
+/* line 184, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nr {
+  background-position: -112px -110px;
+}
+
+/* line 185, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nu {
+  background-position: -128px -110px;
+}
+
+/* line 186, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-nz {
+  background-position: -144px -110px;
+}
+
+/* line 187, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-om {
+  background-position: -160px -110px;
+}
+
+/* line 188, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pa {
+  background-position: -176px -110px;
+}
+
+/* line 189, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pe {
+  background-position: -192px -110px;
+}
+
+/* line 190, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pf {
+  background-position: -208px -110px;
+}
+
+/* line 191, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pg {
+  background-position: -224px -110px;
+}
+
+/* line 192, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ph {
+  background-position: -240px -110px;
+}
+
+/* line 193, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pk {
+  background-position: 0 -121px;
+}
+
+/* line 194, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pl {
+  background-position: -16px -121px;
+}
+
+/* line 195, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pm {
+  background-position: -32px -121px;
+}
+
+/* line 196, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pn {
+  background-position: -48px -121px;
+}
+
+/* line 197, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pr {
+  background-position: -64px -121px;
+}
+
+/* line 198, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ps {
+  background-position: -80px -121px;
+}
+
+/* line 199, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pt {
+  background-position: -96px -121px;
+}
+
+/* line 200, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-pw {
+  background-position: -112px -121px;
+}
+
+/* line 201, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-py {
+  background-position: -128px -121px;
+}
+
+/* line 202, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-qa {
+  background-position: -144px -121px;
+}
+
+/* line 203, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-re {
+  background-position: -160px -121px;
+}
+
+/* line 204, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ro {
+  background-position: -176px -121px;
+}
+
+/* line 205, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-rs {
+  background-position: -192px -121px;
+}
+
+/* line 206, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ru {
+  background-position: -208px -121px;
+}
+
+/* line 207, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-rw {
+  background-position: -224px -121px;
+}
+
+/* line 208, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sa {
+  background-position: -240px -121px;
+}
+
+/* line 209, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sb {
+  background-position: 0 -132px;
+}
+
+/* line 210, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sc {
+  background-position: -16px -132px;
+}
+
+/* line 211, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-scotland {
+  background-position: -32px -132px;
+}
+
+/* line 212, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sd {
+  background-position: -48px -132px;
+}
+
+/* line 213, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-se {
+  background-position: -64px -132px;
+}
+
+/* line 214, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sg {
+  background-position: -80px -132px;
+}
+
+/* line 215, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sh {
+  background-position: -96px -132px;
+}
+
+/* line 216, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-si {
+  background-position: -112px -132px;
+}
+
+/* line 217, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sk {
+  background-position: -128px -132px;
+}
+
+/* line 218, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sl {
+  background-position: -144px -132px;
+}
+
+/* line 219, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sm {
+  background-position: -160px -132px;
+}
+
+/* line 220, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sn {
+  background-position: -176px -132px;
+}
+
+/* line 221, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-so {
+  background-position: -192px -132px;
+}
+
+/* line 222, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-somaliland {
+  background-position: -208px -132px;
+}
+
+/* line 223, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sr {
+  background-position: -224px -132px;
+}
+
+/* line 224, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ss {
+  background-position: -240px -132px;
+}
+
+/* line 225, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-st {
+  background-position: 0 -143px;
+}
+
+/* line 226, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sv {
+  background-position: -16px -143px;
+}
+
+/* line 227, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sy {
+  background-position: -32px -143px;
+}
+
+/* line 228, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-sz {
+  background-position: -48px -143px;
+}
+
+/* line 229, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tc {
+  background-position: -64px -143px;
+}
+
+/* line 230, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-td {
+  background-position: -80px -143px;
+}
+
+/* line 231, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tf {
+  background-position: -96px -143px;
+}
+
+/* line 232, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tg {
+  background-position: -112px -143px;
+}
+
+/* line 233, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-th {
+  background-position: -128px -143px;
+}
+
+/* line 234, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tj {
+  background-position: -144px -143px;
+}
+
+/* line 235, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tk {
+  background-position: -160px -143px;
+}
+
+/* line 236, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tl {
+  background-position: -176px -143px;
+}
+
+/* line 237, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tm {
+  background-position: -192px -143px;
+}
+
+/* line 238, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tn {
+  background-position: -208px -143px;
+}
+
+/* line 239, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-to {
+  background-position: -224px -143px;
+}
+
+/* line 240, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tr {
+  background-position: -240px -143px;
+}
+
+/* line 241, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tt {
+  background-position: 0 -154px;
+}
+
+/* line 242, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tv {
+  background-position: -16px -154px;
+}
+
+/* line 243, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tw {
+  background-position: -32px -154px;
+}
+
+/* line 244, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-tz {
+  background-position: -48px -154px;
+}
+
+/* line 245, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ua {
+  background-position: -64px -154px;
+}
+
+/* line 246, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ug {
+  background-position: -80px -154px;
+}
+
+/* line 247, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-um {
+  background-position: -96px -154px;
+}
+
+/* line 248, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-us {
+  background-position: -112px -154px;
+}
+
+/* line 249, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-uy {
+  background-position: -128px -154px;
+}
+
+/* line 250, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-uz {
+  background-position: -144px -154px;
+}
+
+/* line 251, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-va {
+  background-position: -160px -154px;
+}
+
+/* line 252, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-vc {
+  background-position: -176px -154px;
+}
+
+/* line 253, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ve {
+  background-position: -192px -154px;
+}
+
+/* line 254, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-vg {
+  background-position: -208px -154px;
+}
+
+/* line 255, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-vi {
+  background-position: -224px -154px;
+}
+
+/* line 256, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-vn {
+  background-position: -240px -154px;
+}
+
+/* line 257, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-vu {
+  background-position: 0 -165px;
+}
+
+/* line 258, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-wales {
+  background-position: -16px -165px;
+}
+
+/* line 259, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-wf {
+  background-position: -32px -165px;
+}
+
+/* line 260, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ws {
+  background-position: -48px -165px;
+}
+
+/* line 261, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-ye {
+  background-position: -64px -165px;
+}
+
+/* line 262, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-yt {
+  background-position: -80px -165px;
+}
+
+/* line 263, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-za {
+  background-position: -96px -165px;
+}
+
+/* line 264, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-zanzibar {
+  background-position: -112px -165px;
+}
+
+/* line 265, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-zm {
+  background-position: -128px -165px;
+}
+
+/* line 266, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+.flag.flag-zw {
+  background-position: -144px -165px;
+}
+
+@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3 / 2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+  /* line 273, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag-sprites .flag {
+    width: 16px;
+    height: 14px;
+    display: inline-block;
+    background-size: 16px 3888px;
+  }
+
+  /* line 281, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag-sprites .flag-empty {
+    width: 16px;
+    height: 14px;
+  }
+
+  /* line 286, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._African_Union_OAS {
+    background-position: 0 0px;
+  }
+
+  /* line 287, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Arab_League {
+    background-position: 0 -16px;
+  }
+
+  /* line 288, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._ASEAN {
+    background-position: 0 -32px;
+  }
+
+  /* line 289, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._CARICOM {
+    background-position: 0 -48px;
+  }
+
+  /* line 290, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._CIS {
+    background-position: 0 -64px;
+  }
+
+  /* line 291, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Commonwealth {
+    background-position: 0 -80px;
+  }
+
+  /* line 292, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._england {
+    background-position: 0 -96px;
+  }
+
+  /* line 293, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._European_Union {
+    background-position: 0 -112px;
+  }
+
+  /* line 294, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Islamic_Conference {
+    background-position: 0 -128px;
+  }
+
+  /* line 295, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Kosovo {
+    background-position: 0 -144px;
+  }
+
+  /* line 296, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._NATO {
+    background-position: 0 -160px;
+  }
+
+  /* line 297, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Northern_Cyprus {
+    background-position: 0 -176px;
+  }
+
+  /* line 298, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Northern_Ireland {
+    background-position: 0 -192px;
+  }
+
+  /* line 299, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Olimpic_Movement {
+    background-position: 0 -208px;
+  }
+
+  /* line 300, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._OPEC {
+    background-position: 0 -224px;
+  }
+
+  /* line 301, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Red_Cross {
+    background-position: 0 -240px;
+  }
+
+  /* line 302, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._scotland {
+    background-position: 0 -256px;
+  }
+
+  /* line 303, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Somaliland {
+    background-position: 0 -272px;
+  }
+
+  /* line 304, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._Tibet {
+    background-position: 0 -288px;
+  }
+
+  /* line 305, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._United_Nations {
+    background-position: 0 -304px;
+  }
+
+  /* line 306, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .f16 ._wales {
+    background-position: 0 -320px;
+  }
+
+  /* line 307, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ad {
+    background-position: 0 -336px;
+  }
+
+  /* line 308, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ae {
+    background-position: 0 -352px;
+  }
+
+  /* line 309, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-af {
+    background-position: 0 -368px;
+  }
+
+  /* line 310, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ag {
+    background-position: 0 -384px;
+  }
+
+  /* line 311, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ai {
+    background-position: 0 -400px;
+  }
+
+  /* line 312, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-al {
+    background-position: 0 -416px;
+  }
+
+  /* line 313, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-am {
+    background-position: 0 -432px;
+  }
+
+  /* line 314, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-an {
+    background-position: 0 -448px;
+  }
+
+  /* line 315, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ao {
+    background-position: 0 -464px;
+  }
+
+  /* line 316, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-aq {
+    background-position: 0 -480px;
+  }
+
+  /* line 317, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ar {
+    background-position: 0 -496px;
+  }
+
+  /* line 318, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-as {
+    background-position: 0 -512px;
+  }
+
+  /* line 319, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-at {
+    background-position: 0 -528px;
+  }
+
+  /* line 320, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-au {
+    background-position: 0 -544px;
+  }
+
+  /* line 321, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-aw {
+    background-position: 0 -560px;
+  }
+
+  /* line 322, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-az {
+    background-position: 0 -576px;
+  }
+
+  /* line 323, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ba {
+    background-position: 0 -592px;
+  }
+
+  /* line 324, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bb {
+    background-position: 0 -608px;
+  }
+
+  /* line 325, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bd {
+    background-position: 0 -624px;
+  }
+
+  /* line 326, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-be {
+    background-position: 0 -640px;
+  }
+
+  /* line 327, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bf {
+    background-position: 0 -656px;
+  }
+
+  /* line 328, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bg {
+    background-position: 0 -672px;
+  }
+
+  /* line 329, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bh {
+    background-position: 0 -688px;
+  }
+
+  /* line 330, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bi {
+    background-position: 0 -704px;
+  }
+
+  /* line 331, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bj {
+    background-position: 0 -720px;
+  }
+
+  /* line 332, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bm {
+    background-position: 0 -736px;
+  }
+
+  /* line 333, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bn {
+    background-position: 0 -752px;
+  }
+
+  /* line 334, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bo {
+    background-position: 0 -768px;
+  }
+
+  /* line 335, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-br {
+    background-position: 0 -784px;
+  }
+
+  /* line 336, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bs {
+    background-position: 0 -800px;
+  }
+
+  /* line 337, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bt {
+    background-position: 0 -816px;
+  }
+
+  /* line 338, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bw {
+    background-position: 0 -832px;
+  }
+
+  /* line 339, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-by {
+    background-position: 0 -848px;
+  }
+
+  /* line 340, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-bz {
+    background-position: 0 -864px;
+  }
+
+  /* line 341, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ca {
+    background-position: 0 -880px;
+  }
+
+  /* line 342, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cg {
+    background-position: 0 -896px;
+  }
+
+  /* line 343, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cf {
+    background-position: 0 -912px;
+  }
+
+  /* line 344, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cd {
+    background-position: 0 -928px;
+  }
+
+  /* line 345, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ch {
+    background-position: 0 -944px;
+  }
+
+  /* line 346, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ci {
+    background-position: 0 -960px;
+  }
+
+  /* line 347, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ck {
+    background-position: 0 -976px;
+  }
+
+  /* line 348, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cl {
+    background-position: 0 -992px;
+  }
+
+  /* line 349, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cm {
+    background-position: 0 -1008px;
+  }
+
+  /* line 350, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cn {
+    background-position: 0 -1024px;
+  }
+
+  /* line 351, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-co {
+    background-position: 0 -1040px;
+  }
+
+  /* line 352, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cr {
+    background-position: 0 -1056px;
+  }
+
+  /* line 353, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cu {
+    background-position: 0 -1072px;
+  }
+
+  /* line 354, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cv {
+    background-position: 0 -1088px;
+  }
+
+  /* line 355, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cy {
+    background-position: 0 -1104px;
+  }
+
+  /* line 356, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-cz {
+    background-position: 0 -1120px;
+  }
+
+  /* line 357, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-de {
+    background-position: 0 -1136px;
+  }
+
+  /* line 358, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-dj {
+    background-position: 0 -1152px;
+  }
+
+  /* line 359, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-dk {
+    background-position: 0 -1168px;
+  }
+
+  /* line 360, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-dm {
+    background-position: 0 -1184px;
+  }
+
+  /* line 361, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-do {
+    background-position: 0 -1200px;
+  }
+
+  /* line 362, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-dz {
+    background-position: 0 -1216px;
+  }
+
+  /* line 363, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ec {
+    background-position: 0 -1232px;
+  }
+
+  /* line 364, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ee {
+    background-position: 0 -1248px;
+  }
+
+  /* line 365, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-eg {
+    background-position: 0 -1264px;
+  }
+
+  /* line 366, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-eh {
+    background-position: 0 -1280px;
+  }
+
+  /* line 367, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-er {
+    background-position: 0 -1296px;
+  }
+
+  /* line 368, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-es {
+    background-position: 0 -1312px;
+  }
+
+  /* line 369, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-et {
+    background-position: 0 -1328px;
+  }
+
+  /* line 370, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-fi {
+    background-position: 0 -1344px;
+  }
+
+  /* line 371, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-fj {
+    background-position: 0 -1360px;
+  }
+
+  /* line 372, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-fm {
+    background-position: 0 -1376px;
+  }
+
+  /* line 373, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-fo {
+    background-position: 0 -1392px;
+  }
+
+  /* line 374, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-fr {
+    background-position: 0 -1408px;
+  }
+
+  /* line 375, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ga {
+    background-position: 0 -1424px;
+  }
+
+  /* line 376, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gb {
+    background-position: 0 -1440px;
+  }
+
+  /* line 377, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gd {
+    background-position: 0 -1456px;
+  }
+
+  /* line 378, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ge {
+    background-position: 0 -1472px;
+  }
+
+  /* line 379, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gg {
+    background-position: 0 -1488px;
+  }
+
+  /* line 380, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gh {
+    background-position: 0 -1504px;
+  }
+
+  /* line 381, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gi {
+    background-position: 0 -1520px;
+  }
+
+  /* line 382, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gl {
+    background-position: 0 -1536px;
+  }
+
+  /* line 383, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gm {
+    background-position: 0 -1552px;
+  }
+
+  /* line 384, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gn {
+    background-position: 0 -1568px;
+  }
+
+  /* line 385, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gp {
+    background-position: 0 -1584px;
+  }
+
+  /* line 386, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gq {
+    background-position: 0 -1600px;
+  }
+
+  /* line 387, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gr {
+    background-position: 0 -1616px;
+  }
+
+  /* line 388, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gt {
+    background-position: 0 -1632px;
+  }
+
+  /* line 389, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gu {
+    background-position: 0 -1648px;
+  }
+
+  /* line 390, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gw {
+    background-position: 0 -1664px;
+  }
+
+  /* line 391, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-gy {
+    background-position: 0 -1680px;
+  }
+
+  /* line 392, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-hk {
+    background-position: 0 -1696px;
+  }
+
+  /* line 393, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-hn {
+    background-position: 0 -1712px;
+  }
+
+  /* line 394, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-hr {
+    background-position: 0 -1728px;
+  }
+
+  /* line 395, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ht {
+    background-position: 0 -1744px;
+  }
+
+  /* line 396, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-hu {
+    background-position: 0 -1760px;
+  }
+
+  /* line 397, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-id {
+    background-position: 0 -1776px;
+  }
+
+  /* line 398, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mc {
+    background-position: 0 -1776px;
+  }
+
+  /* line 399, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ie {
+    background-position: 0 -1792px;
+  }
+
+  /* line 400, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-il {
+    background-position: 0 -1808px;
+  }
+
+  /* line 401, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-im {
+    background-position: 0 -1824px;
+  }
+
+  /* line 402, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-in {
+    background-position: 0 -1840px;
+  }
+
+  /* line 403, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-iq {
+    background-position: 0 -1856px;
+  }
+
+  /* line 404, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ir {
+    background-position: 0 -1872px;
+  }
+
+  /* line 405, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-is {
+    background-position: 0 -1888px;
+  }
+
+  /* line 406, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-it {
+    background-position: 0 -1904px;
+  }
+
+  /* line 407, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-je {
+    background-position: 0 -1920px;
+  }
+
+  /* line 408, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-jm {
+    background-position: 0 -1936px;
+  }
+
+  /* line 409, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-jo {
+    background-position: 0 -1952px;
+  }
+
+  /* line 410, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-jp {
+    background-position: 0 -1968px;
+  }
+
+  /* line 411, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ke {
+    background-position: 0 -1984px;
+  }
+
+  /* line 412, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kg {
+    background-position: 0 -2000px;
+  }
+
+  /* line 413, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kh {
+    background-position: 0 -2016px;
+  }
+
+  /* line 414, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ki {
+    background-position: 0 -2032px;
+  }
+
+  /* line 415, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-km {
+    background-position: 0 -2048px;
+  }
+
+  /* line 416, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kn {
+    background-position: 0 -2064px;
+  }
+
+  /* line 417, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kp {
+    background-position: 0 -2080px;
+  }
+
+  /* line 418, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kr {
+    background-position: 0 -2096px;
+  }
+
+  /* line 419, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kw {
+    background-position: 0 -2112px;
+  }
+
+  /* line 420, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ky {
+    background-position: 0 -2128px;
+  }
+
+  /* line 421, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-kz {
+    background-position: 0 -2144px;
+  }
+
+  /* line 422, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-la {
+    background-position: 0 -2160px;
+  }
+
+  /* line 423, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lb {
+    background-position: 0 -2176px;
+  }
+
+  /* line 424, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lc {
+    background-position: 0 -2192px;
+  }
+
+  /* line 425, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-li {
+    background-position: 0 -2208px;
+  }
+
+  /* line 426, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lk {
+    background-position: 0 -2224px;
+  }
+
+  /* line 427, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lr {
+    background-position: 0 -2240px;
+  }
+
+  /* line 428, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ls {
+    background-position: 0 -2256px;
+  }
+
+  /* line 429, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lt {
+    background-position: 0 -2272px;
+  }
+
+  /* line 430, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lu {
+    background-position: 0 -2288px;
+  }
+
+  /* line 431, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-lv {
+    background-position: 0 -2304px;
+  }
+
+  /* line 432, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ly {
+    background-position: 0 -2320px;
+  }
+
+  /* line 433, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ma {
+    background-position: 0 -2336px;
+  }
+
+  /* line 434, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-md {
+    background-position: 0 -2352px;
+  }
+
+  /* line 435, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-me {
+    background-position: 0 -2368px;
+  }
+
+  /* line 436, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mg {
+    background-position: 0 -2384px;
+  }
+
+  /* line 437, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mh {
+    background-position: 0 -2400px;
+  }
+
+  /* line 438, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mk {
+    background-position: 0 -2416px;
+  }
+
+  /* line 439, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ml {
+    background-position: 0 -2432px;
+  }
+
+  /* line 440, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mm {
+    background-position: 0 -2448px;
+  }
+
+  /* line 441, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mn {
+    background-position: 0 -2464px;
+  }
+
+  /* line 442, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mo {
+    background-position: 0 -2480px;
+  }
+
+  /* line 443, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mq {
+    background-position: 0 -2496px;
+  }
+
+  /* line 444, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mr {
+    background-position: 0 -2512px;
+  }
+
+  /* line 445, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ms {
+    background-position: 0 -2528px;
+  }
+
+  /* line 446, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mt {
+    background-position: 0 -2544px;
+  }
+
+  /* line 447, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mu {
+    background-position: 0 -2560px;
+  }
+
+  /* line 448, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mv {
+    background-position: 0 -2576px;
+  }
+
+  /* line 449, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mw {
+    background-position: 0 -2592px;
+  }
+
+  /* line 450, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mx {
+    background-position: 0 -2608px;
+  }
+
+  /* line 451, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-my {
+    background-position: 0 -2624px;
+  }
+
+  /* line 452, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-mz {
+    background-position: 0 -2640px;
+  }
+
+  /* line 453, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-na {
+    background-position: 0 -2656px;
+  }
+
+  /* line 454, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-nc {
+    background-position: 0 -2672px;
+  }
+
+  /* line 455, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ne {
+    background-position: 0 -2688px;
+  }
+
+  /* line 456, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ng {
+    background-position: 0 -2704px;
+  }
+
+  /* line 457, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ni {
+    background-position: 0 -2720px;
+  }
+
+  /* line 458, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-nl {
+    background-position: 0 -2736px;
+  }
+
+  /* line 459, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-no {
+    background-position: 0 -2752px;
+  }
+
+  /* line 460, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-np {
+    background-position: 0 -2768px;
+  }
+
+  /* line 461, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-nr {
+    background-position: 0 -2784px;
+  }
+
+  /* line 462, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-nz {
+    background-position: 0 -2800px;
+  }
+
+  /* line 463, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-om {
+    background-position: 0 -2816px;
+  }
+
+  /* line 464, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pa {
+    background-position: 0 -2832px;
+  }
+
+  /* line 465, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pe {
+    background-position: 0 -2848px;
+  }
+
+  /* line 466, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pf {
+    background-position: 0 -2864px;
+  }
+
+  /* line 467, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pg {
+    background-position: 0 -2880px;
+  }
+
+  /* line 468, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ph {
+    background-position: 0 -2896px;
+  }
+
+  /* line 469, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pk {
+    background-position: 0 -2912px;
+  }
+
+  /* line 470, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pl {
+    background-position: 0 -2928px;
+  }
+
+  /* line 471, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pr {
+    background-position: 0 -2944px;
+  }
+
+  /* line 472, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ps {
+    background-position: 0 -2960px;
+  }
+
+  /* line 473, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pt {
+    background-position: 0 -2976px;
+  }
+
+  /* line 474, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-pw {
+    background-position: 0 -2992px;
+  }
+
+  /* line 475, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-py {
+    background-position: 0 -3008px;
+  }
+
+  /* line 476, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-qa {
+    background-position: 0 -3024px;
+  }
+
+  /* line 477, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-re {
+    background-position: 0 -3040px;
+  }
+
+  /* line 478, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ro {
+    background-position: 0 -3056px;
+  }
+
+  /* line 479, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-rs {
+    background-position: 0 -3072px;
+  }
+
+  /* line 480, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ru {
+    background-position: 0 -3088px;
+  }
+
+  /* line 481, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-rw {
+    background-position: 0 -3104px;
+  }
+
+  /* line 482, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sa {
+    background-position: 0 -3120px;
+  }
+
+  /* line 483, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sb {
+    background-position: 0 -3136px;
+  }
+
+  /* line 484, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sc {
+    background-position: 0 -3152px;
+  }
+
+  /* line 485, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sd {
+    background-position: 0 -3168px;
+  }
+
+  /* line 486, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-se {
+    background-position: 0 -3184px;
+  }
+
+  /* line 487, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sg {
+    background-position: 0 -3200px;
+  }
+
+  /* line 488, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-si {
+    background-position: 0 -3216px;
+  }
+
+  /* line 489, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sk {
+    background-position: 0 -3232px;
+  }
+
+  /* line 490, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sl {
+    background-position: 0 -3248px;
+  }
+
+  /* line 491, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sm {
+    background-position: 0 -3264px;
+  }
+
+  /* line 492, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sn {
+    background-position: 0 -3280px;
+  }
+
+  /* line 493, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-so {
+    background-position: 0 -3296px;
+  }
+
+  /* line 494, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sr {
+    background-position: 0 -3312px;
+  }
+
+  /* line 495, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-st {
+    background-position: 0 -3328px;
+  }
+
+  /* line 496, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sv {
+    background-position: 0 -3344px;
+  }
+
+  /* line 497, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sy {
+    background-position: 0 -3360px;
+  }
+
+  /* line 498, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-sz {
+    background-position: 0 -3376px;
+  }
+
+  /* line 499, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tc {
+    background-position: 0 -3392px;
+  }
+
+  /* line 500, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-td {
+    background-position: 0 -3408px;
+  }
+
+  /* line 501, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tg {
+    background-position: 0 -3424px;
+  }
+
+  /* line 502, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-th {
+    background-position: 0 -3440px;
+  }
+
+  /* line 503, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tj {
+    background-position: 0 -3456px;
+  }
+
+  /* line 504, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tl {
+    background-position: 0 -3472px;
+  }
+
+  /* line 505, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tm {
+    background-position: 0 -3488px;
+  }
+
+  /* line 506, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tn {
+    background-position: 0 -3504px;
+  }
+
+  /* line 507, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-to {
+    background-position: 0 -3520px;
+  }
+
+  /* line 508, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tr {
+    background-position: 0 -3536px;
+  }
+
+  /* line 509, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tt {
+    background-position: 0 -3552px;
+  }
+
+  /* line 510, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tv {
+    background-position: 0 -3568px;
+  }
+
+  /* line 511, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tw {
+    background-position: 0 -3584px;
+  }
+
+  /* line 512, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-tz {
+    background-position: 0 -3600px;
+  }
+
+  /* line 513, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ua {
+    background-position: 0 -3616px;
+  }
+
+  /* line 514, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ug {
+    background-position: 0 -3632px;
+  }
+
+  /* line 515, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-us {
+    background-position: 0 -3648px;
+  }
+
+  /* line 516, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-uy {
+    background-position: 0 -3664px;
+  }
+
+  /* line 517, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-uz {
+    background-position: 0 -3680px;
+  }
+
+  /* line 518, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-va {
+    background-position: 0 -3696px;
+  }
+
+  /* line 519, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-vc {
+    background-position: 0 -3712px;
+  }
+
+  /* line 520, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ve {
+    background-position: 0 -3728px;
+  }
+
+  /* line 521, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-vg {
+    background-position: 0 -3744px;
+  }
+
+  /* line 522, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-vi {
+    background-position: 0 -3760px;
+  }
+
+  /* line 523, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-vn {
+    background-position: 0 -3776px;
+  }
+
+  /* line 524, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-vu {
+    background-position: 0 -3792px;
+  }
+
+  /* line 525, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ws {
+    background-position: 0 -3808px;
+  }
+
+  /* line 526, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-ye {
+    background-position: 0 -3824px;
+  }
+
+  /* line 527, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-za {
+    background-position: 0 -3840px;
+  }
+
+  /* line 528, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-zm {
+    background-position: 0 -3856px;
+  }
+
+  /* line 529, ../../vendor/plugins/fclocations/assets/stylesheets/flags.scss */
+  .flag.flag-zw {
+    background-position: 0 -3872px;
+  }
+}
+/* line 4, ../../app/assets/stylesheets/widget.css.scss */
+.flag-sprites .flag {
+  background-image: url(/pa/fclocations/images/flags.png);
+}
+
+@media (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3 / 2), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+  /* line 12, ../../app/assets/stylesheets/widget.css.scss */
+  .flag-sprites .flag {
+    background-image: url(/pa/fclocations/images/flags32.png);
+    background-size: 16px 3888px;
+  }
+}
+/* line 21, ../../app/assets/stylesheets/widget.css.scss */
+.wf-width-cont {
+  width: 753px;
+  /* 263 min */
+  transition: all 1s;
+}
+/* line 25, ../../app/assets/stylesheets/widget.css.scss */
+.wf-width-cont .ui-resizable-handle {
+  background: none;
+}
+/* line 29, ../../app/assets/stylesheets/widget.css.scss */
+.wf-width-cont .surf-fc-i {
+  overflow: hidden;
+  border: none;
+  height: 347px;
+  width: 100%;
+}
+
+/* line 37, ../../app/assets/stylesheets/widget.css.scss */
+body.surf-fc-widget {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+/* line 43, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget {
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 12px;
+  color: #666;
+}
+/* line 48, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget a {
+  color: #389fd5;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: normal;
+}
+/* line 54, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget a.inactive_units {
+  font-weight: bold;
+  color: #666;
+}
+/* line 60, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .unit {
+  font-size: 90%;
+}
+/* line 64, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .widget-container {
+  background-color: #f5f5f5;
+  border: solid 3px #848484;
+  border-radius: 14px;
+  box-shadow: inset 0 0 11px 0 #aaaaaa;
+  overflow: hidden;
+}
+/* line 88, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .external-cont {
+  position: relative;
+}
+/* line 93, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .external-cont .footer {
+  padding: 10px;
+  min-height: 30px;
+}
+/* line 97, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .external-cont .footer .logo {
+  display: block;
+  float: left;
+  margin-right: 10px;
+  width: 103px;
+  height: 28px;
+  background: url(/images/widget.png) -30px -38px no-repeat;
+}
+/* line 109, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container {
+  position: relative;
+  height: 411px;
+  box-shadow: inset 0 0 11px 0 #aaaaaa;
+}
+/* line 120, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container {
+  height: 300px;
+  overflow: visible;
+  margin: 0 auto;
+}
+/* line 128, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels {
+  width: 88px;
+  height: 100%;
+  float: left;
+  position: relative;
+  text-align: right;
+  padding-right: 6px;
+}
+/* line 136, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels span {
+  display: inline-block;
+  vertical-align: middle;
+}
+/* line 142, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-divider {
+  margin-left: 34px;
+  height: 1px;
+  background-color: #cccccc;
+  width: 50px;
+}
+/* line 148, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-date {
+  height: 22px;
+  line-height: 22px;
+}
+/* line 152, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-rating {
+  line-height: 33px;
+}
+/* line 155, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-swell {
+  position: absolute;
+  margin-top: 12px;
+  left: -3px;
+  width: 16px;
+  height: 44px;
+  background: url("/images/widget/swell.png") no-repeat;
+}
+/* line 165, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-wind {
+  position: absolute;
+  margin-top: 20px;
+  left: -3px;
+  width: 16px;
+  height: 36px;
+  background: url("/images/widget/wind.png") no-repeat;
+}
+/* line 175, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-height {
+  height: 18px;
+  padding-top: 6px;
+}
+/* line 179, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-direction {
+  height: 20px;
+  padding-top: 4px;
+}
+/* line 183, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-period {
+  height: 17px;
+}
+/* line 186, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-speed {
+  height: 34px;
+  padding-top: 3px;
+}
+/* line 190, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-state {
+  line-height: 31px;
+}
+/* line 193, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-weather {
+  line-height: 37px;
+}
+/* line 196, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-airtemp {
+  height: 21px;
+}
+/* line 199, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .labels .label-metrics {
+  margin-top: 12px;
+  font-size: 11px;
+}
+/* line 204, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .content-container .grid-container .grid {
+  height: 100%;
+}
+/* line 211, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .heading {
+  height: 41px;
+  color: #f5f6f6;
+  /*font-weight: bold;*/
+  font-size: 16px;
+  line-height: 41px;
+  margin-bottom: 6px;
+  background-color: #848484;
+  padding: 0 0 0 10px;
+}
+/* line 221, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .heading .flag {
+  margin-left: 6px;
+}
+/* line 225, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget tbody td {
+  width: 5.5%;
+}
+/* line 229, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget td.smaller {
+  font-size: 8px;
+}
+/* line 233, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget tr td:nth-child(-n+8), .surf-fc-widget tr td:nth-last-child(-n+2) {
+  background-color: #f5f6f6;
+}
+/* line 237, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+/* line 242, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave {
+  background-color: #389fd5;
+  width: 100%;
+  height: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+/* line 248, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div {
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background: url(/images/widget/wave-arrow.svg) center center no-repeat;
+  background-size: 12px 12px;
+}
+/* line 254, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.N {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+/* line 255, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.NNE {
+  -webkit-transform: rotate(112.5deg);
+  transform: rotate(112.5deg);
+}
+/* line 256, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.NE {
+  -webkit-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+/* line 257, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.ENE {
+  -webkit-transform: rotate(157.5deg);
+  transform: rotate(157.5deg);
+}
+/* line 258, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.E {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+/* line 259, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.ESE {
+  -webkit-transform: rotate(202.5deg);
+  transform: rotate(202.5deg);
+}
+/* line 260, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.SE {
+  -webkit-transform: rotate(225deg);
+  transform: rotate(225deg);
+}
+/* line 261, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.SSE {
+  -webkit-transform: rotate(247.5deg);
+  transform: rotate(247.5deg);
+}
+/* line 262, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.S {
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+/* line 263, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.SSW {
+  -webkit-transform: rotate(292.5deg);
+  transform: rotate(292.5deg);
+}
+/* line 264, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.SW {
+  -webkit-transform: rotate(315deg);
+  transform: rotate(315deg);
+}
+/* line 265, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.WSW {
+  -webkit-transform: rotate(337.5deg);
+  transform: rotate(337.5deg);
+}
+/* line 266, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.W {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+/* line 267, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.WNW {
+  -webkit-transform: rotate(382.5deg);
+  transform: rotate(382.5deg);
+}
+/* line 268, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.NW {
+  -webkit-transform: rotate(405deg);
+  transform: rotate(405deg);
+}
+/* line 269, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-container .wave div.NNW {
+  -webkit-transform: rotate(427.5deg);
+  transform: rotate(427.5deg);
+}
+/* line 274, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+/* line 277, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div {
+  height: 14px;
+  width: 14px;
+  background: url(/images/widget/wave-sprite.png) 0 0 no-repeat;
+  -webkit-transform: none !important;
+  transform: none !important;
+}
+/* line 284, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.N {
+  background-position: 0 0px;
+}
+/* line 285, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.NNE {
+  background-position: 0 -34px;
+}
+/* line 286, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.NE {
+  background-position: 0 -68px;
+}
+/* line 287, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.ENE {
+  background-position: 0 -102px;
+}
+/* line 288, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.E {
+  background-position: 0 -136px;
+}
+/* line 289, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.ESE {
+  background-position: 0 -170px;
+}
+/* line 290, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.SE {
+  background-position: 0 -204px;
+}
+/* line 291, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.SSE {
+  background-position: 0 -238px;
+}
+/* line 292, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.S {
+  background-position: 0 -272px;
+}
+/* line 293, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.SSW {
+  background-position: 0 -306px;
+}
+/* line 294, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.SW {
+  background-position: 0 -340px;
+}
+/* line 295, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.WSW {
+  background-position: 0 -374px;
+}
+/* line 296, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.W {
+  background-position: 0 -408px;
+}
+/* line 297, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.WNW {
+  background-position: 0 -442px;
+}
+/* line 298, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.NW {
+  background-position: 0 -476px;
+}
+/* line 299, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg .wave-container .wave div.NNW {
+  background-position: 0 -510px;
+}
+/* line 303, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-value {
+  height: 15px;
+}
+/* line 306, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-addon {
+  background-color: #389fd5;
+  width: 100%;
+  height: 0px;
+}
+/* line 316, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .row {
+  border-left: solid 1px #bbbdc0;
+  overflow: hidden;
+}
+/* line 320, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .row .cell {
+  border-right: solid 1px #bbbdc0;
+  border-bottom: solid 1px #bbbdc0;
+  text-align: center;
+  width: 34px;
+  float: left;
+}
+/* line 327, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .row .cell.edge, .surf-fc-widget .row .cell.day-end {
+  border-right: 1px solid #777777 !important;
+}
+/* line 333, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .date-row-cont {
+  height: 24px;
+  position: relative;
+}
+/* line 338, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .date-row {
+  height: 24px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-left: none;
+}
+/* line 345, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .date-row .cell {
+  height: 22px;
+  border-top: solid 1px #bbbdc0;
+  background-color: #cdcccb;
+  border-right: solid 1px #cdcccb;
+  color: #ffffff;
+  vertical-align: middle;
+  line-height: 22px;
+}
+/* line 356, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .time-row {
+  font-size: 10px;
+  height: 14px;
+}
+/* line 360, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .time-row .cell {
+  height: 11px;
+  line-height: 11px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+/* line 368, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .rating-row {
+  height: 31px;
+}
+/* line 370, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .rating-row .cell {
+  height: 30px;
+  text-align: center;
+}
+/* line 373, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .rating-row .cell div {
+  background: url(/images/widget.png) -193px -38px no-repeat;
+  width: 27px;
+  height: 27px;
+  vertical-align: middle;
+  line-height: 28px;
+  font-weight: bold;
+  margin: 1px auto;
+  padding: 1px 0 0 1px;
+}
+/* line 382, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .rating-row .cell div.too-much {
+  background: url(/staricons/star.11.gif) -6px -3px no-repeat;
+}
+/* line 389, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-row {
+  height: 50px;
+}
+/* line 392, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wave-row .cell {
+  position: relative;
+  height: 50px;
+}
+/* line 398, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .period-row {
+  height: 15px;
+}
+/* line 400, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .period-row .cell {
+  padding-top: 1px;
+  height: 13px;
+}
+/* line 406, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-row {
+  height: 39px;
+}
+/* line 409, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-row .cell {
+  height: 38px;
+  color: #ffffff;
+}
+/* line 415, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-row {
+  height: 29px;
+}
+/* line 417, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-row .cell {
+  height: 24px;
+  vertical-align: middle;
+  width: 30px;
+  padding: 2px;
+}
+/* line 425, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-row {
+  height: 37px;
+}
+/* line 428, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-row .cell {
+  height: 36px;
+}
+/* line 433, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .temperature-row {
+  height: 16px;
+}
+/* line 436, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .temperature-row .cell {
+  height: 13px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+/* line 445, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .grid-container {
+  max-width: 725px;
+}
+@media only screen and (min-width: 725px) {
+  /* line 449, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .issued {
+    display: inline !important;
+  }
+}
+@media only screen and (max-width: 724px) {
+  /* line 457, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 690px;
+  }
+  /* line 460, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .forecast-range {
+    display: none;
+  }
+}
+@media only screen and (max-width: 689px) {
+  /* line 468, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 655px;
+  }
+}
+@media only screen and (max-width: 654px) {
+  /* line 476, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 620px;
+  }
+}
+@media only screen and (max-width: 619px) {
+  /* line 484, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 585px;
+  }
+}
+@media only screen and (max-width: 584px) {
+  /* line 492, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 550px;
+  }
+}
+@media only screen and (max-width: 549px) {
+  /* line 500, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 515px;
+  }
+}
+@media only screen and (max-width: 514px) {
+  /* line 508, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 480px;
+  }
+  /* line 511, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .water-temp {
+    display: none;
+  }
+}
+@media only screen and (max-width: 479px) {
+  /* line 519, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 445px;
+  }
+}
+@media only screen and (max-width: 444px) {
+  /* line 527, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 410px;
+  }
+  /* line 530, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .country-info {
+    display: none;
+  }
+}
+@media only screen and (max-width: 409px) {
+  /* line 538, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 375px;
+  }
+  /* line 541, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .obs-timestamp {
+    display: none;
+  }
+}
+@media only screen and (max-width: 374px) {
+  /* line 549, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 340px;
+  }
+  /* line 552, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .date-row-by-8 {
+    display: none;
+  }
+}
+@media only screen and (max-width: 339px) {
+  /* line 560, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 305px;
+  }
+  /* line 563, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .date-row-by-7 {
+    display: none;
+  }
+}
+@media only screen and (max-width: 304px) {
+  /* line 571, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 270px;
+  }
+  /* line 574, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .date-row-by-6 {
+    display: none;
+  }
+  /* line 577, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .observation-word {
+    display: none;
+  }
+}
+@media only screen and (max-width: 269px) {
+  /* line 585, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 235px;
+  }
+  /* line 588, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .date-row-by-5 {
+    display: none;
+  }
+}
+@media only screen and (max-width: 234px) {
+  /* line 596, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .grid-container {
+    width: 200px;
+  }
+  /* line 599, ../../app/assets/stylesheets/widget.css.scss */
+  .surf-fc-widget .date-row-by-4 {
+    display: none;
+  }
+}
+/* line 604, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont {
+  position: relative;
+  height: 34px;
+}
+/* line 607, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.speed {
+  height: 34px;
+  width: 34px;
+  position: absolute;
+  line-height: 34px;
+  color: #fff;
+  z-index: 1;
+}
+/* line 615, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir {
+  height: 34px;
+  width: 34px;
+  background: url(/images/widget/wind-arrow.svg) center center no-repeat;
+  background-size: 34px 34px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+/* line 624, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.N {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+/* line 625, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.NNE {
+  -webkit-transform: rotate(112.5deg);
+  transform: rotate(112.5deg);
+}
+/* line 626, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.NE {
+  -webkit-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+/* line 627, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.ENE {
+  -webkit-transform: rotate(157.5deg);
+  transform: rotate(157.5deg);
+}
+/* line 628, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.E {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+/* line 629, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.ESE {
+  -webkit-transform: rotate(202.5deg);
+  transform: rotate(202.5deg);
+}
+/* line 630, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.SE {
+  -webkit-transform: rotate(225deg);
+  transform: rotate(225deg);
+}
+/* line 631, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.SSE {
+  -webkit-transform: rotate(247.5deg);
+  transform: rotate(247.5deg);
+}
+/* line 632, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.S {
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+/* line 633, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.SSW {
+  -webkit-transform: rotate(292.5deg);
+  transform: rotate(292.5deg);
+}
+/* line 634, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.SW {
+  -webkit-transform: rotate(315deg);
+  transform: rotate(315deg);
+}
+/* line 635, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.WSW {
+  -webkit-transform: rotate(337.5deg);
+  transform: rotate(337.5deg);
+}
+/* line 636, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.W {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+/* line 637, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.WNW {
+  -webkit-transform: rotate(382.5deg);
+  transform: rotate(382.5deg);
+}
+/* line 638, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.NW {
+  -webkit-transform: rotate(405deg);
+  transform: rotate(405deg);
+}
+/* line 639, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget div.wind-cont div.dir.NNW {
+  -webkit-transform: rotate(427.5deg);
+  transform: rotate(427.5deg);
+}
+/* line 643, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir {
+  background: url(/pa/fclocations/images/wind.compile_large.png) 0 0 no-repeat;
+  -webkit-transform: none !important;
+  transform: none !important;
+}
+/* line 648, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.N {
+  background-position: -1px -1px;
+}
+/* line 649, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.NNE {
+  background-position: -1px -37px;
+}
+/* line 650, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.NE {
+  background-position: -1px -73px;
+}
+/* line 651, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.ENE {
+  background-position: -1px -109px;
+}
+/* line 652, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.E {
+  background-position: -1px -145px;
+}
+/* line 653, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.ESE {
+  background-position: -1px -181px;
+}
+/* line 654, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.SE {
+  background-position: -1px -217px;
+}
+/* line 655, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.SSE {
+  background-position: -1px -253px;
+}
+/* line 656, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.S {
+  background-position: -1px -289px;
+}
+/* line 657, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.SSW {
+  background-position: -1px -325px;
+}
+/* line 658, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.SW {
+  background-position: -1px -361px;
+}
+/* line 659, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.WSW {
+  background-position: -1px -397px;
+}
+/* line 660, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.W {
+  background-position: -1px -433px;
+}
+/* line 661, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.WNW {
+  background-position: -1px -469px;
+}
+/* line 662, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.NW {
+  background-position: -1px -505px;
+}
+/* line 663, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget.no-svg div.wind-cont div.dir.NNW {
+  background-position: -1px -541px;
+}
+/* line 668, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .less_than_20 {
+  color: white;
+}
+/* line 672, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .less_than_40 {
+  color: #b3ffb3;
+}
+/* line 676, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .less_than_60 {
+  color: #ffffb3;
+}
+/* line 680, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .less_than_80 {
+  color: #ffe9b3;
+}
+/* line 684, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .greater_or_equal_to_80 {
+  color: #ffb3b3;
+}
+/* line 688, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .three-letter {
+  font-size: 11px;
+}
+/* line 692, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-row {
+  font-size: 10px;
+}
+/* line 695, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-row td {
+  padding: 2px;
+}
+/* line 698, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-on {
+  background-color: #646464 !important;
+  color: #ffffff;
+}
+/* line 702, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-cross-on {
+  background-color: #aaaaaa !important;
+  color: #ffffff;
+}
+/* line 706, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-cross-shore, .surf-fc-widget .wind-state-cross {
+  background-color: #d2d2d2 !important;
+}
+/* line 709, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-cross-off {
+  background-color: #64ff64 !important;
+}
+/* line 712, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-off {
+  background-color: lime !important;
+}
+/* line 715, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .wind-state-glassy, .surf-fc-widget .wind-state-glass {
+  background-color: lime !important;
+}
+/* line 719, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-row td {
+  height: 36px;
+  background-size: 90%;
+  background-position-x: 2px;
+  background-position-y: 2px;
+}
+/* line 725, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-sunny {
+  background: url("/images/widget/weather/sunny.png") no-repeat;
+}
+/* line 728, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-cloudy {
+  background: url("/images/widget/weather/cloudy2.png") no-repeat;
+}
+/* line 731, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-rainy {
+  background: url("/images/widget/weather/shower1.png") no-repeat;
+}
+/* line 734, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-heavy-rain {
+  background: url("/images/widget/weather/shower3.png") no-repeat;
+}
+/* line 737, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-thunder-storm {
+  background: url("/images/widget/weather/tstorm1.png") no-repeat;
+}
+/* line 740, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weather-state-m-cloudy {
+  background: url("/images/widget/weather/cloudy1.png") no-repeat;
+}
+/* line 744, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row {
+  font-size: 11px;
+  background-color: #f6fcff !important;
+  overflow: hidden;
+  border-bottom: solid 1px #bbbdc0;
+}
+/* line 750, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .speed {
+  font-size: 12px;
+}
+/* line 756, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-left {
+  float: left;
+  line-height: 42px;
+  padding: 0 8px 0 10px;
+}
+/* line 761, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-right {
+  float: right;
+  line-height: 42px;
+  padding: 0 8px 0 10px;
+}
+/* line 766, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-rightmost {
+  float: right;
+  border-right: solid 1px #bbbdc0;
+  width: 1px;
+  height: 42px;
+}
+/* line 773, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .issued {
+  display: none;
+}
+/* line 776, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-middle {
+  padding-top: 4px;
+}
+/* line 780, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-wind {
+  color: #ffffff;
+  background: url("/images/widget/wind-arrow.png") no-repeat;
+  height: 38px;
+  border-right: 0px !important;
+}
+/* line 787, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-middle .weather-state {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+/* line 795, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .current-weather-row .current-weather-middle .wind-container {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  text-align: center;
+}
+/* line 803, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weathercell {
+  margin: 0 auto;
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+}
+/* line 811, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .weathercell img, .surf-fc-widget .windcell img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  margin: 0 !important;
+}
+/* line 819, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .add-this-to-your-site {
+  float: right;
+  line-height: 18px;
+  margin-left: 20px;
+}
+/* line 824, ../../app/assets/stylesheets/widget.css.scss */
+.surf-fc-widget .about {
+  line-height: 18px;
+  text-align: left;
+}
