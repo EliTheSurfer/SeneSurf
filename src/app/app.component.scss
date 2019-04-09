@@ -1,4 +1,9 @@
 
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
-html {
-    font-family: 'Permanent Marker', cursive;}
+html, body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {
+    margin-top: 60px;
+}
