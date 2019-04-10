@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "10.13.0"
+before_script:
+  - npm install -g @angular/cli
+  - npm install --save-dev @angular-devkit/build-angular
+script:
+ - ng build
+ - echo "Deploy!!"
+install:
+  - npm install -g firebase-tools
+after_success:
+  - firebase deploy --project surfinsenegal-6474d --token $FIREBASE_TOKEN
