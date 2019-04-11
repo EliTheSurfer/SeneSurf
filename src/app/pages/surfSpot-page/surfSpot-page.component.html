@@ -1,6 +1,18 @@
-<div class = "text-center">
-  <h3>LiveStream : {{surfSpotName}} </h3>
-  <app-card></app-card>
-  <h3>Conditions météo</h3>
-  <app-meteoCard [foreCastUrl] = foreCastUrl></app-meteoCard>
+<!-- Responsive setup-->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12 p-0">
+      <div class="min-vh-100 text-center m-0 d-flex flex-column justify-content-center">
+
+        <!-- Component's body -->
+        <h3>LiveStream : {{surfSpotName}} </h3>
+        <app-card></app-card>
+        <h3>Conditions météo</h3>
+        <app-meteoCard [foreCastUrl] = foreCastUrl></app-meteoCard>
+
+      </div>
+    </div>
+  </div>
 </div>
+
+
