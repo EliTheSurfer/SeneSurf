@@ -4,15 +4,15 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import { CardComponent } from './card/card.component';
-import { NavbarComponent } from './navbar/navbar.component';
+import { CardComponent } from './SharedComponents/card/card.component';
+import { NavbarComponent } from './SharedComponents/navbar/navbar.component';
 import { RouterModule, Routes } from '@angular/router';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { EventsPageComponent } from './pages/events-page/events-page.component';
 import { RestaurantsComponent } from './pages/restaurants/restaurants.component';
 import { ShopComponent } from './pages/shop/shop.component';
 import { PrestationsComponent } from './pages/prestations/prestations.component';
-import { MeteoCardComponent } from './meteoCard/meteoCard.component';
+import { MeteoCardComponent } from './SharedComponents/meteoCard/meteoCard.component';
 import { SurfSpotComponent } from './pages/surfSpot-page/surfSpot-page.component';
 
 
