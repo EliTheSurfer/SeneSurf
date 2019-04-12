@@ -12,12 +12,9 @@ import { Subscription } from 'rxjs';
   styleUrls: ['./surfSpot-page.component.css']
 })
 export class SurfSpotComponent implements OnDestroy {
-  @Input() surfSpotName;
+  @Input() surfSpotName: string;
   foreCastUrl: string;
-
   routerEventSubscription: Subscription;
-
-
   constructor(private router: Router) {
     enum surfSpotEnum {
       'Le-Virage' =  'Le Virage',

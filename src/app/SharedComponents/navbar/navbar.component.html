@@ -1,16 +1,28 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <a class="navbar-brand" routerLink="/" >SeneSurf</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button 
+      class="navbar-toggler" 
+      type="button" 
+      data-toggle="collapse" 
+      data-target="#navbarSupportedContent" 
+      aria-controls="navbarSupportedContent" 
+      aria-expanded="false" 
+      (click)="toggleNavbar()"
+      aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
   
-    <div class="collapse navbar-collapse" id="navbarSupporteéContent">
+    <div 
+      class="collapse navbar-collapse show" 
+      id="navbarSupporteéContent" 
+      [ngClass]="{ 'show': isTheNavbarOpened }">
       <ul class="navbar-nav mr-auto">
         <li class="dropdown" dropdown nav-link dropdown-toggle >
             <a dropdownToggle class="nav-link dropdown-toggle" role="button">Surf Spots</a>
-            <div *dropdownMenu class="dropdown-menu">
+            <div *dropdownMenu class="dropdown-menu" (click)="toggleNavbar()">
                 <a class="dropdown-item" [routerLink]="['surfSpotStream', 'Le-Virage']">Le virage</a>
                 <a class="dropdown-item" [routerLink]="['surfSpotStream', 'Vivier']">Vivier</a>
                 <a class="dropdown-item" [routerLink]="['surfSpotStream', 'Yoff-Beach']">Yoff</a>
@@ -19,33 +31,33 @@
             </div>
         </li>
         
-        <li class="nav-item">
+        <li class="nav-item" (click)="toggleNavbar()">
           <a class="nav-link"  
             routerLink="/evenements">Evenements  
             <span class="sr-only">(current)</span>
           </a>
         </li>
         
-        <li class="nav-item">
+        <li class="nav-item" (click)="toggleNavbar()">
           <a class="nav-link" routerLink="/restaurants">Restaurants</a>
         </li>
         
-        <li class="nav-item">
+        <li class="nav-item" (click)="toggleNavbar()">
           <a class="nav-link" routerLink="/boutique">Boutique</a>
         </li>
         
-        <li class="nav-item">
+        <li class="nav-item" (click)="toggleNavbar()">
             <a class="nav-link" routerLink="/prestations" >Cours et Surf trips</a>
         </li>
 
       </ul>
 
-      <ul class="navbar-nav">
+      <ul class="navbar-nav" (click)="toggleNavbar()">
           <li class="nav-item social-icon">
               <a href="https://www.facebook.com/SeneSurf/" class="fab fa-facebook-square fa-lg"></a>
           </li>
     
-          <li class="nav-item social-icon">
+          <li class="nav-item social-icon" (click)="toggleNavbar()">
               <a href="https://www.instagram.com/senesurf/" class="fab fa-instagram fa-lg"></a>
           </li>
       </ul>
