@@ -36,5 +36,4 @@ export class SurfSpotComponent implements OnDestroy {
   ngOnDestroy() {
     this.routerEventSubscription.unsubscribe();
   }
-
 }
