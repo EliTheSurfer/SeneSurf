@@ -14,6 +14,7 @@ import { ShopComponent } from './pages/shop/shop.component';
 import { PrestationsComponent } from './pages/prestations/prestations.component';
 import { MeteoCardComponent } from './SharedComponents/meteoCard/meteoCard.component';
 import { SurfSpotComponent } from './pages/surfSpot-page/surfSpot-page.component';
+import { ShopArticleCardComponent } from './SharedComponents/shopArticleCard/shopArticleCard.component';
 
 
 const appRoutes: Routes = [
@@ -33,6 +34,7 @@ const appRoutes: Routes = [
       SurfSpotComponent,
       EventsPageComponent,
       RestaurantsComponent,
+      ShopArticleCardComponent,
       ShopComponent,
       PrestationsComponent,
       MeteoCardComponent
